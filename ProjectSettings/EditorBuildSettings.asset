@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/London Bridge 360 Video.unity
+    guid: f3894584e5120bf40881575b12b35945
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0934a96e597831843b4527c9cdc0fdfc, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 08a26f9ad5f2d57499c1fb7e49b3f8b4, type: 2}
